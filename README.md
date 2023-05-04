@@ -1,7 +1,7 @@
 # Rythmonica
 Rythmonica is a web application that helps you find new songs and artists that are similar to the ones you already love. The front-end of the application is built with React and Redux for handling the user interface and state management, while the back-end is built with Express and uses the Spotify API to retrieve data.
 
-![](./screenshots/Recommendation.png)
+![](./screenshots/rythmonica_preview.gif)
 
 ## Setup
 Before you start, make sure you have Node.js installed on your machine and have a Spotify account to use the app. To run the app, you will need to create an `.env` file and fill in the variables found in `example.env`.
