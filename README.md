@@ -1,5 +1,5 @@
-# Spotify Discovery
-Spotify Discovery is a web application that helps you find new songs and artists that are similar to the ones you already love. The front-end of the application is built with React and Redux for handling the user interface and state management, while the back-end is built with Express and uses the Spotify API to retrieve data.
+# Rythmonica
+Rythmonica is a web application that helps you find new songs and artists that are similar to the ones you already love. The front-end of the application is built with React and Redux for handling the user interface and state management, while the back-end is built with Express and uses the Spotify API to retrieve data.
 
 ![](./screenshots/Recommendation.png)
 
